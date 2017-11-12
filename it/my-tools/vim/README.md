@@ -15,7 +15,7 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 1. [The Ultimate Vim Configuration](https://github.com/amix/vimrc) - A collection of vimrc files and plugins that truly power-up your vim experience. Things like Pathogen (for installing vim packages), NERDTree (vim file explorer), Fugitive (Powerful Git integration), etc.
 1. 
 
-## Hacking Vim
+# Hacking Vim
 
 ## Vim as IDE
 
