@@ -8,6 +8,6 @@ Feel free to browse and use what you like. I don't guarantee the quality, accura
 
 ## Topics
 
-*  [IT](it/README.MD)
+*  [IT](it/README.md)
 * Writing
 * General Interest
