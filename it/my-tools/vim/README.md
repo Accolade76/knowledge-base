@@ -8,7 +8,9 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 
 ## Vim Commands
 
-1.
+### Search commands
+
+1. [How to search through a project folder recursively](https://stackoverflow.com/questions/7950558/how-can-i-search-a-word-in-whole-project-folder-recursively#7950649)
 
 ## Vim software/expansions
 
