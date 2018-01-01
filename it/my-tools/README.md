@@ -6,14 +6,6 @@ This is an overview of tools I use that I feel are worth mentioning along with t
 
 ## Tools
 
-* [Vim](vim/README.md) - Powerful text editor
-* 
-# Tools I Use
-## Introduction
-
-
-## List of Tools
-
-- [vim](vim/README.md)
+- [Vim](vim/README.md) - Powerful text editor
 - [autohotkey](autohotkey/README.md)
 
