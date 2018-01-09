@@ -16,7 +16,9 @@ Notes on the Professional Scrum Master training at Capgemini Academy [09-01-2018
 - PO has a Product Vision.
 - Product Owner is responsible for **value** and has a **mandate**.
 - You aren't given a mandate, you **take** a mandate:
-    - 
+    - Talk to your stakeholders
+    - Deliver results
+
 
 
 #### Scrum Master
