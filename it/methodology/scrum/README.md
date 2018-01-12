@@ -93,6 +93,15 @@ Notes on the Professional Scrum Master training at Capgemini Academy [09-01-2018
 - Present: the dev Team, the PO, and the stakeholders.
 - The review is for the PO: he can show what has been done with his product and where it's going next
 - The review should make a change to the Product Backlog (otherwise you have to wonder about how the sprint went)
+- Have VIP stakeholders as a standard invite to your review, even if they never show up. These are people that can hurt your work/team if they feel out-of-the-loop. For the rest, be mindful of whom you invite and they should be relevant to the sprint goal.
+
+###### Ideal format
+
+- Short explanation of what the point is of the Sprint Review.
+- Review of what was on the sprint backlog and what got done.
+- A demo of the things that got done.
+- Ask everyone present: "How can we make this better?" (Preferable over: "What do you think?").
+- Look at the Product Backlog and discuss next steps/completion dates.
 
 ##### Sprint Retrospective
 
@@ -103,4 +112,20 @@ Notes on the Professional Scrum Master training at Capgemini Academy [09-01-2018
 ##### Increment
 
 - Next iteration of the product which should meet the Definition of Done and be shippable.
+
+## Second Day
+
+### Certification Exam Tips
+
+1. Read the Scrum Guide and **know** it!
+2. Read the course training material (unfortunately, I cannot make this available as it is copyrighted intellectual property)
+3. Do the open assessments on the scrum.org site multiple times (ideally until you don't see any new questions in your run-throughs). Especially, the open scrumYou can also do the PSPO and other open assessments.
+4. Know the Glossary.
+5. Google is your friend!
+6. Be a 'scrumdamentalist' (copyright: Peter Kuijt). The exam focuses on the view of the framework as decided by founder Ken Schwaber, don't get creative and veer off the theory by thinking 'Well, in practice, xyz can happen...'.
+
+### Done and Undone
+
+- Product owner is responsible for inspecting that something is 'Done' based on the Definition of Done.
+- The Definition of Done belongs to the Development Team.
 
