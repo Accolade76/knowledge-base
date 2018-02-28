@@ -7,4 +7,18 @@ This page covers the vast amounts of information with respect to DevOps practice
 ## Table of Contents
 
 1. DevOps: The Big Picture
-2. DevOps: Links
+1. DevOps: Links
+
+
+## DevOps: The Big Picture
+
+### Introduction
+
+
+## DevOps: Links
+
+### Articles
+
+
+### Tools
+
