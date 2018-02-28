@@ -15,6 +15,35 @@ This page covers the vast amounts of information with respect to DevOps practice
 ### Introduction
 
 
+## DevOps: Practices
+
+### Acceptance Criteria
+
+#### 3 Amigos
+
+### Behavior Driven Design
+
+#### Example-Mapping
+
+### Test-Driven Development
+
+#### Code Smells
+
+### Automated Testing
+
+#### Unit Testing
+
+#### Service / Interface Testing
+
+#### Acceptance Testing
+
+### Configuration Management
+
+### Loosely-coupled architecture
+
+### Continuous Integration
+
+### Continuous Deployment
 ## DevOps: Links
 
 ### Articles
