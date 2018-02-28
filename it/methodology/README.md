@@ -7,4 +7,5 @@ This page covers links and pages related to courses/information with respect to 
 
 ## Topics
 
+* [DevOps](devops/README.md)
 * [Professional Scrum Master](scrum/README.md)
