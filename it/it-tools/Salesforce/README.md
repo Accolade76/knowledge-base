@@ -28,3 +28,8 @@ There are several built-in tools that do not require (much) development skill to
 
 - VisualForce (going to be deprecated slowly)
 - Lightning (New Langauage being rolled out.)
+
+
+## Useful Links
+
+- (Setup Salesforce DX IDE environment with Visual Studio Code)[https://www.xgeek.net/salesforce/setup-salesforce-dx-ide-environment-with-visual-studio-code/]
