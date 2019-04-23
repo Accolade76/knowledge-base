@@ -33,3 +33,4 @@ There are several built-in tools that do not require (much) development skill to
 ## Useful Links
 
 - (Setup Salesforce DX IDE environment with Visual Studio Code)[https://www.xgeek.net/salesforce/setup-salesforce-dx-ide-environment-with-visual-studio-code/]
+- [Download Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli#)
