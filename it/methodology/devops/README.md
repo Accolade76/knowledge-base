@@ -33,7 +33,9 @@ effects cascade to the level of the entire organization.
 
 #### Clean Architecture
 
-#### Clean Code 
+#### Clean Code
+
+* [Article: Cost of quality in software development by Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ##### Code Smells
 
