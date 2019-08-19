@@ -31,6 +31,8 @@ effects cascade to the level of the entire organization.
 
 * [Overview of Design patterns](https://sourcemaking.com/design_patterns)
 
+* [Codurance Katalyst](https://www.linkedin.com/posts/sandromancuso_in-addition-to-co-founding-the-london-software-activity-6564437511907749888-FFlH): a great resource from Codurance and the London Software Craftmanship group for Agile Katas.
+
 #### Clean Architecture
 
 #### Clean Code
