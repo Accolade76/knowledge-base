@@ -31,6 +31,8 @@ effects cascade to the level of the entire organization.
 
 * [Overview of Design patterns](https://sourcemaking.com/design_patterns)
 
+* [NetObjectives Design Patterns Repository](http://www.netobjectives.net/patternrepository/index.php?title=Main_Page): a great resource for Design Patterns maintained by the inimitable Scott Bain.
+
 * [Codurance Katalyst](katalyst.codurance.com): a great resource from Codurance and the London Software Craftmanship group for Agile Katas.
 
 #### Clean Architecture
