@@ -21,6 +21,8 @@ effects cascade to the level of the entire organization.
 
 ### Acceptance Criteria
 
+[7 Tips for Writing Acceptance Criteria with Examples](https://agileforgrowth.com/blog/acceptance-criteria-checklist/)
+
 #### 3 Amigos
 
 ### Behavior Driven Design
