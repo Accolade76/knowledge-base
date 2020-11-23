@@ -1,13 +1,22 @@
-# knowledge-base
+# Agile Development Knowledge Base 
+
 ## Introduction
-I'm constantly teaching myself all sorts of skills. Many of them are IT-related, but not all of them are. I've decided I want a central repository to store things like cheat-sheets for software development tools I use, or to store snippets of code and commands I don't want to forget or lose, or to store a link for a page I don't want to lose sight of.
 
-Sure, I could use a tool like Evernote for most of this stuff. But I love hacking on the command-line and trying to optimize the Vim text editor to take over the world, so I figured Git and GitHub would be the perfect place for this!
+In the past few years I've grown increasingly fascinated with all the different facets of agile software development and the practices related to this. Furthermore, returning from a management role to go back into working in code and on technical topics has been a fascinating path.
 
-Feel free to browse and use what you like. I don't guarantee the quality, accuracy or even relevancy of anything you find here. These are my personal notes stored in a public space for the good (or detriment) of (wo)mankind.
+I still have a long way to go, and a lot to learn, and I felt it might be helpful to chronicle my discoveries in the form of a Github knowledge base.
+
+It servers primarily as a literal repository of knowledge for me to find back links to interesting pages, books, tools, blog posts, courses and tools.
+
+But hopefully there'll be something here for you too.
+
+Feel free to browse.
 
 ## Topics
 
-*  [IT](it/README.md)
-* Writing
-* General Interest
+1. [Coding](coding/coding.md)
+1. [Websites & Services](websites/websites.md)
+1. [Tools](tools/tools.md)
+1. [Books](books/books.md)
+1. [Conferences](conferences/conferences.md)
+*  [Methodologies](methodologies/methodologies.md)
