@@ -19,4 +19,4 @@ Feel free to browse.
 1. [Tools](tools/tools.md)
 1. [Books](books/books.md)
 1. [Conferences](conferences/conferences.md)
-*  [Methodologies](methodologies/methodologies.md)
+1. [Methodologies](methodologies/methodologies.md)
