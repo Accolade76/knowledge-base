@@ -14,9 +14,10 @@ Feel free to browse.
 
 ## Topics
 
-1. [Coding](coding/coding.md)
-1. [Websites & Services](websites/websites.md)
-1. [Tools](tools/tools.md)
-1. [Books](books/books.md)
-1. [Conferences](conferences/conferences.md)
-1. [Methodologies](methodologies/methodologies.md)
+1. [Coding](coding/coding.md): Resources around coding/scripting languages
+1. [Certifications](certifications/certifications.md)
+1. [Websites & Services](websites/websites.md): Links to sites I don't want to lose track of
+1. [Tools](tools/tools.md): Pages on various tools I'm interested in.
+1. [Books](books/books.md): Books I highly recommend (or, in some cases, still want to read)
+1. [Conferences](conferences/conferences.md): Messy notes on conferences I've attended
+1. [Methodologies](methodologies/methodologies.md): Agile, DevOps, Scrum, etc.
