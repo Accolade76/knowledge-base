@@ -21,6 +21,39 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 
 ## Vim as IDE
 
+## Markdown
+
+To configure using OSX's Marked 2 as the standard for opening a PDF file from Vim, at the following command to your .vimrc:
+
+`:nnoremap <leader>m :silent !open -a Marked\ 2.app '%:p'<cr>`
+
+This will ensure the `<leader>m` will open the current markdown file in Marked 2.
+
+In case this messes with the rendering of the file and the command for a reload is the `:edit` override: `:e!`
+
+## Navigating Links
+
+- `gx`: Open a link
+- `gf`: goto file
+- `Ctrl+6`: return to previous file
+
+## Opening a PDF
+
+Add the followin to your .vimrc:
+
+`" functions for file extension '.pdf'.
+function! NFH_pdf(f)
+    execute '!open' a:f
+    endfunction`
+
+
+## NERDTree commands worth knowing
+
+- To access the file management menu in NERDTree: type `m`. To create a new file type `a` and then type the filename. Append a `\` for a new directory.
+- A simple `q` to close the NERDTree pane
+
 ## Miscellaneous Resources
+
+
 
 
