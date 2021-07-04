@@ -8,6 +8,14 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 
 ## Vim Commands
 
+### Terminal Commands
+
+#### Shell commands
+
+`CTRL+Z` will temporarily suspend vim and drop you onto the command line. Typing `fg` (for foreground) will bring you back into vim.
+
+`r ! <terminal command>` will read the output of the terminal command into vim.
+
 ### Search commands
 
 1. [How to search through a project folder recursively](https://stackoverflow.com/questions/7950558/how-can-i-search-a-word-in-whole-project-folder-recursively#7950649)
@@ -39,7 +47,7 @@ In case this messes with the rendering of the file and the command for a reload 
 
 ## Opening a PDF
 
-Add the followin to your .vimrc:
+Add the following to your .vimrc:
 
 `" functions for file extension '.pdf'.
 function! NFH_pdf(f)
