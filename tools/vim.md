@@ -8,6 +8,18 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 
 ## Vim Commands
 
+### Remove whitespace / left align
+
+You can remove unwanted whitespace by using the following command:
+
+`:%le`
+
+### Write selected text out to a new file
+
+1. Use visual mode to select text
+2. Type `:` to go to ex mode
+3. type `w <filename>` (include a full path if it needs to be written elsewhere than the current working directory)
+
 ### Terminal Commands
 
 #### Shell commands
@@ -28,6 +40,17 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 # Hacking Vim
 
 ## Vim as IDE
+
+## commentary.vim plugin
+
+This [plugin](https://github.com/tpope/vim-commentary) lets you comment code with motion commands.
+
+- `gcc`: used to comment out a line. Takes a count
+- `gc`: comment out target of motion, or selection in visual mode.
+- `gcap`: as a specific example of the motion command above: comment out a paragraph
+
+Finally, it is also possible to us it as part of a range `:7,17Commentary` or as part of a `:global` invocation like with `:g/TODO/Commentary`.
+
 
 ## Markdown
 
@@ -61,7 +84,4 @@ function! NFH_pdf(f)
 - A simple `q` to close the NERDTree pane
 
 ## Miscellaneous Resources
-
-
-
 
