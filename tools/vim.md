@@ -8,6 +8,10 @@ I'm constantly flabbergasted by how much powerful functionality has been packed 
 
 ## Vim Commands
 
+### View Registers
+
+1. `:registers`
+
 ### Remove whitespace / left align
 
 You can remove unwanted whitespace by using the following command:
@@ -19,6 +23,15 @@ You can remove unwanted whitespace by using the following command:
 1. Use visual mode to select text
 2. Type `:` to go to ex mode
 3. type `w <filename>` (include a full path if it needs to be written elsewhere than the current working directory)
+
+### Macros
+
+Macros are useful for recording a series of operations and then applying them repeatedly on new sections.
+
+1. `q<letter to name macro>` to start recording operations to re-play 
+1. `q` again to stop recording operations
+1. `@<letter of named macro>` to 'playback' operations that were recorded
+1. `<number>@<letter of named macro` to play the macro multiple times consecutively
 
 ### Terminal Commands
 
